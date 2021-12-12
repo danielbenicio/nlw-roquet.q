@@ -2,7 +2,7 @@
   "name": "nlw-discovery",
   "version": "1.0.0",
   "description": "Projeto desenvolvido para anonimos fazerem perguntas ao dono da pagina",
-  "main": "index.js",
+  "main": "index.js", 
   "scripts": {
     "start": "nodemon src/server.js"
   },
