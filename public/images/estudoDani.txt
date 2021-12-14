@@ -1,9 +1,0 @@
-1 - NLW TOGETHER: discover para relembrar o basico: https://app.rocketseat.com.br/node/mission-discover/group/nlw-together-discover/lesson/aula-01-liftoff-6
-
-2- FAZER TRILHA DISCOVER BACKEND: https://app.rocketseat.com.br/node/maratona-discover-edicao-01/lesson/aula-01
-
-3 - FAZER 1/2 OU ATÉ MESMO 3 PROJETOS COM OS CONHECIMENTOS ADQUIRIDOS (pode até copiar uma interface já existente )
-
-4 - FAZER ALGUMA NLW APRENDENDO UM FRAMEWORK A FUNDO DA SUA PREFERENCIA: https://app.rocketseat.com.br/nlw-together/tracks (REACT: frontend, REACT NATIVE: mobile, node: backend)
-
-5 -  FAZER UM PROJETO COM SEUS CONHECIMENTOS ADIQUIRITOS (pode até copiar algo já existente)
